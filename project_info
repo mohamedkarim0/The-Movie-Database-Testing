@@ -1,0 +1,11 @@
+This repository is dedicated to testing **The Movie Database (TMDb) website**, using Jira, API and Performance Testing. 
+
+This repository contains multiple branches, each dedicated to a specific testing tool.  
+  jira:
+    -Contains test cases and test cycles using the Zephyr Scale extension on JIRA.  
+  jmeter: 
+    -Includes JMeter scripts for performance and load testing of TMDb.   
+  rest-assured: 
+    -Provides automated API testing scripts using Rest-Assured in Java for TMDb APIs.  
+  postman: 
+    -Stores a Postman collection project with tests and configurations for API testing.  
