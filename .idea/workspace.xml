@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d0301fa-c50b-4497-97f9-297c2b4a4b39" name="Changes" comment="First Rest Assured Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mohamedkarim0"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9c625ffe-38f7-44d5-908d-dde35ea70b00" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mohamedkarim0/The-Movie-Database-Testing.git",
+    "accountId": "9c625ffe-38f7-44d5-908d-dde35ea70b00"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2sCs7eAoCqpvn1zPNxIbeN46aRY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.InvalidTest.AddNonNumericRatingtoTV.executor": "Run",
+    "TestNG.InvalidTest.AddOverNumericRatingtoTV.executor": "Run",
+    "TestNG.InvalidTest.CreateRequestTokenWithInvalidAPI.executor": "Run",
+    "TestNG.InvalidTest.CreateRequestTokenWithPOST.executor": "Run",
+    "TestNG.InvalidTest.CreateUserListWithExistingListName.executor": "Run",
+    "TestNG.InvalidTest.DeleteUserTvRatingWithoutAuthorization.executor": "Run",
+    "TestNG.InvalidTest.EmptysearchByKeyword.executor": "Run",
+    "TestNG.InvalidTest.GetAccountDetailsforInvalidUser.executor": "Run",
+    "TestNG.InvalidTest.GetUserListDetails.executor": "Run",
+    "TestNG.InvalidTest.UpdateTvRatingWithPos.executor": "Run",
+    "TestNG.InvalidTest.addMovieAlreadyInFavorite.executor": "Run",
+    "TestNG.InvalidTest.addMovieAlreadyInList.executor": "Run",
+    "TestNG.InvalidTest.addTAlreadyInFavorite.executor": "Run",
+    "TestNG.InvalidTest.addTAlreadyInWatchlist.executor": "Run",
+    "TestNG.InvalidTest.addTvAlreadyInFavorite.executor": "Run",
+    "TestNG.InvalidTest.clearAnEmptyList.executor": "Run",
+    "TestNG.InvalidTest.getInvalidTv.executor": "Run",
+    "TestNG.InvalidTest.searchByKeyword.executor": "Run",
+    "TestNG.TestCase1.executor": "Run",
+    "TestNG.TestCase1.getAccountDetails.executor": "Run",
+    "TestNG.TestCase1.invalidTestCase.executor": "Run",
+    "TestNG.TestCase1.test2.executor": "Run",
+    "TestNG.TestCase1.test3.executor": "Run",
+    "TestNG.TestCase1.validateRequestResponse.executor": "Run",
+    "TestNG.TestCase1.validateResponse.executor": "Run",
+    "TestNG.ValidTest.AddRatingtoMovie.executor": "Run",
+    "TestNG.ValidTest.AddRatingtoTV.executor": "Run",
+    "TestNG.ValidTest.CreateRequestToken.executor": "Run",
+    "TestNG.ValidTest.CreateSession.executor": "Run",
+    "TestNG.ValidTest.CreateUserList (1).executor": "Debug",
+    "TestNG.ValidTest.CreateUserList.executor": "Run",
+    "TestNG.ValidTest.DeleteUserList.executor": "Run",
+    "TestNG.ValidTest.DeleteUserMovieRating.executor": "Run",
+    "TestNG.ValidTest.DeleteUserTvRating.executor": "Run",
+    "TestNG.ValidTest.GetAllUserListsDetails.executor": "Run",
+    "TestNG.ValidTest.GetUserListDetails.executor": "Run",
+    "TestNG.ValidTest.GetUserMovieRating.executor": "Run",
+    "TestNG.ValidTest.GetUserTvRating.executor": "Run",
+    "TestNG.ValidTest.addMovieToFavorite.executor": "Run",
+    "TestNG.ValidTest.addMovieToList.executor": "Run",
+    "TestNG.ValidTest.addMovieToWatchlist.executor": "Run",
+    "TestNG.ValidTest.addTvToFavorite.executor": "Run",
+    "TestNG.ValidTest.addTvToWatchlist.executor": "Run",
+    "TestNG.ValidTest.clearList.executor": "Run",
+    "TestNG.ValidTest.deleteSession.executor": "Run",
+    "TestNG.ValidTest.getAccountDetails (1).executor": "Run",
+    "TestNG.ValidTest.getAccountDetails.executor": "Run",
+    "TestNG.ValidTest.getMovieAlternativeTitles.executor": "Run",
+    "TestNG.ValidTest.getMovieDetails.executor": "Run",
+    "TestNG.ValidTest.getMovieFavoriteList.executor": "Run",
+    "TestNG.ValidTest.getMovieImages.executor": "Run",
+    "TestNG.ValidTest.getMovieReviews.executor": "Run",
+    "TestNG.ValidTest.getMovieTranslationDetails.executor": "Run",
+    "TestNG.ValidTest.getMovieVideos.executor": "Run",
+    "TestNG.ValidTest.getMovieWatchlist.executor": "Run",
+    "TestNG.ValidTest.getRecommendedMovie.executor": "Run",
+    "TestNG.ValidTest.getRecommendedTv.executor": "Run",
+    "TestNG.ValidTest.getSimilarMovie.executor": "Run",
+    "TestNG.ValidTest.getSimilarTV.executor": "Run",
+    "TestNG.ValidTest.getTvAlternativeTitles.executor": "Run",
+    "TestNG.ValidTest.getTvDetails.executor": "Run",
+    "TestNG.ValidTest.getTvFavoriteList.executor": "Run",
+    "TestNG.ValidTest.getTvImages.executor": "Run",
+    "TestNG.ValidTest.getTvReviews.executor": "Run",
+    "TestNG.ValidTest.getTvTranslationDetails.executor": "Run",
+    "TestNG.ValidTest.getTvVideos.executor": "Run",
+    "TestNG.ValidTest.getTvWatchlist.executor": "Run",
+    "TestNG.ValidTest.removeMoviefromList.executor": "Run",
+    "TestNG.ValidTest.searchByCollection.executor": "Run",
+    "TestNG.ValidTest.searchByCompany.executor": "Run",
+    "TestNG.ValidTest.searchByKeyword.executor": "Run",
+    "TestNG.ValidTest.searchByMovie.executor": "Run",
+    "TestNG.ValidTest.searchByPerson.executor": "Run",
+    "TestNG.ValidTest.searchByTC.executor": "Run",
+    "TestNG.ValidTest.searchByTV.executor": "Run",
+    "TestNG.ValidTest.trial (1).executor": "Debug",
+    "TestNG.ValidTest.trial.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Johnny/IdeaProjects/MovieDBTest/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Johnny\IdeaProjects\MovieDBTest\src\test\java\movie\auth" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.InvalidTest.addMovieAlreadyInFavorite">
+    <configuration name="InvalidTest.addMovieAlreadyInFavorite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MovieDBTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moviedb.movielist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="moviedb.movielist" />
+      <option name="MAIN_CLASS_NAME" value="moviedb.movielist.InvalidTest" />
+      <option name="METHOD_NAME" value="addMovieAlreadyInFavorite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvalidTest.addTvAlreadyInFavorite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MovieDBTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moviedb.tvlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="moviedb.tvlist" />
+      <option name="MAIN_CLASS_NAME" value="moviedb.tvlist.InvalidTest" />
+      <option name="METHOD_NAME" value="addTvAlreadyInFavorite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidTest.addMovieToFavorite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MovieDBTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moviedb.movielist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="moviedb.movielist" />
+      <option name="MAIN_CLASS_NAME" value="moviedb.movielist.ValidTest" />
+      <option name="METHOD_NAME" value="addMovieToFavorite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidTest.addTvToFavorite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MovieDBTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moviedb.tvlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="moviedb.tvlist" />
+      <option name="MAIN_CLASS_NAME" value="moviedb.tvlist.ValidTest" />
+      <option name="METHOD_NAME" value="addTvToFavorite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidTest.getMovieFavoriteList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MovieDBTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moviedb.movielist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="moviedb.movielist" />
+      <option name="MAIN_CLASS_NAME" value="moviedb.movielist.ValidTest" />
+      <option name="METHOD_NAME" value="getMovieFavoriteList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.InvalidTest.addMovieAlreadyInFavorite" />
+        <item itemvalue="TestNG.InvalidTest.addTvAlreadyInFavorite" />
+        <item itemvalue="TestNG.ValidTest.getMovieFavoriteList" />
+        <item itemvalue="TestNG.ValidTest.addMovieToFavorite" />
+        <item itemvalue="TestNG.ValidTest.addTvToFavorite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d0301fa-c50b-4497-97f9-297c2b4a4b39" name="Changes" comment="" />
+      <created>1737970727063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737970727063</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Rest Assured Commit">
+      <option name="closed" value="true" />
+      <created>1738324325640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738324325640</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Rest Assured Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Rest Assured Commit" />
+  </component>
+</project>
